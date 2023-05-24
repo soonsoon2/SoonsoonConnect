@@ -1,7 +1,9 @@
-=======================
-Soonsoon Connect
-Dolche FrameWork
-Version 1.00a
+=======================  
+
+Soonsoon Connect  
+Dolche FrameWork  
+Version 1.00a  
+
 =======================
 
 The Dolche framework is a framework that can make member management more useful when developing games by utilizing PlayFab as part of the Soonsoon Connect project.
