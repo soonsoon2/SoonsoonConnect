@@ -1,5 +1,7 @@
-=======================
-Soonsoon Connect Project
+=======================  
+
+Soonsoon Connect Project  
+
 =======================
 
 The Soonsoon Connect project is a project that develops and distributes additional functions that make it easier to implement server-based member management and other functions when developing games.
